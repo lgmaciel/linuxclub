@@ -1,5 +1,10 @@
 # Proposta de Abertura de um Linux Club
 
+
+ <img src="logo_senac.png" width="200px"/>   <img src="lpi-logo.png.webp" width="200px"/>
+
+
+
 ## Objetivo
 
 Criar um espaço colaborativo para entusiastas, estudantes e profissionais interessados em Linux e software livre, promovendo aprendizado, troca de experiências e desenvolvimento de projetos.
@@ -53,7 +58,7 @@ Além disso, o Linux Professional Institute (LPI) é parceiro da Cisco Network A
 |--------------------------------------------|----------------------------------------------------------------|------------------|
 | 1. Apresentação da Proposta                | Apresentar a proposta à coordenação e possíveis parceiros      | Semana 1         |
 | 2. Formação da Equipe Organizadora         | Selecionar voluntários e definir papéis                        | Semana 2         |
-| 3. Divulgação do Linux Club                | Campanha interna e externa para atrair participantes           | Semanas 3 e 4    |
+| 3. Divulgação do Linux Club                | Lançamento do projeto no evento "Software Freedom Day" na UniSenac (11/10/25). Campanha interna e externa para atrair participantes           | Semanas 3 e 4    |
 | 4. Primeira Reunião e Planejamento         | Definir calendário de atividades e temas iniciais              | Semana 5         |
 | 5. Início das Atividades                   | Realização dos primeiros eventos e grupos de estudo            | Mês 2 em diante  |
 | 6. Avaliação e Ajustes                     | Coletar feedback e ajustar o planejamento conforme necessário  | Trimestral       |
